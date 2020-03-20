@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/walteravelino/GitHub/SaMiCeCrush/build/audioplayers/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/walteravelino/.gradle/caches/transforms-2/files-2.1/7933344b5e7abdbee1e51b4d8cd8722a/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/walteravelino/GitHub/SaMiCeCrush/build/audioplayers/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/walteravelino/.gradle/caches/transforms-2/files-2.1/7933344b5e7abdbee1e51b4d8cd8722a/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/walteravelino/GitHub/SaMiCeCrush/build/audioplayers/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/walteravelino/.gradle/caches/transforms-2/files-2.1/7933344b5e7abdbee1e51b4d8cd8722a/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/walteravelino/GitHub/SaMiCeCrush/build/audioplayers/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/walteravelino/.gradle/caches/transforms-2/files-2.1/7933344b5e7abdbee1e51b4d8cd8722a/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/walteravelino/GitHub/SaMiCeCrush/build/audioplayers/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/walteravelino/.gradle/caches/transforms-2/files-2.1/7933344b5e7abdbee1e51b4d8cd8722a/res/layout/notification_template_part_time.xml"
+    }
+]
